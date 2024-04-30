@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "co.rewardwise",
+            "sha256_cert_fingerprints": [
+                "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+                "06:C8:9E:84:95:B8:B4:DE:AC:5A:36:E4:D5:EE:6F:C9:3D:1B:FC:B8:A1:36:BA:25:1E:EB:0D:AF:25:2A:25:60"
+            ]
+        }
+    }
+]
